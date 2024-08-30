@@ -99,8 +99,6 @@ html {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   box-sizing: border-box;
   scroll-padding-top: var(--scroll-padding);
-  font-size: large;
-  font-style: italic;
 }
 
 @media (max-width: 1200px) {
