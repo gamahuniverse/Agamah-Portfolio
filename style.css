@@ -901,6 +901,7 @@ body.dark .work-links img {
 
 .featured-article .article-text {
   font-size: var(--text-medium);
+  font-size: large;
 }
 
 .featured-article .article-info {
